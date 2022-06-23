@@ -92,3 +92,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
